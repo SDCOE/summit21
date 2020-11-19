@@ -694,6 +694,9 @@ a {
 .cid-sgJ3p6YF7L .navbar-dropdown {
   position: relative !important;
 }
+.cid-sgJ3p6YF7L .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sgJ3p6YF7L .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -789,8 +792,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.3);
 }
 .cid-sgJ3p6YF7L .navbar.opened {
   transition: all 0.3s;
