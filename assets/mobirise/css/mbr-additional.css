@@ -746,6 +746,14 @@ a {
 .cid-sgJy3D66sI .card-box {
   color: #000000;
 }
+.cid-sgUlOj0OaH {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sgUlOj0OaH .mbr-section-subtitle {
+  color: #2299aa;
+}
 .cid-sgJ3GKcRvD {
   padding-top: 1rem;
   padding-bottom: 3rem;
@@ -1150,13 +1158,13 @@ a {
 .cid-sgKo58AFjf [class*=" socicon-"]:before {
   line-height: 55px;
 }
-.cid-sgKoBOIREI {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-sgUm42QUkP {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #2299aa;
 }
-.cid-sgKoBOIREI .media-container-row .mbr-text {
-  text-align: left;
+.cid-sgUm42QUkP .mbr-text {
+  color: #65c6d4;
 }
 .cid-sgKSqaWoTg .navbar-dropdown {
   position: relative !important;
@@ -1851,6 +1859,18 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sgUmGuPDmR {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/flat-line-13-1169x780.jpg");
+}
+.cid-sgUmGuPDmR .mbr-section-title {
+  color: #2299aa;
+}
+.cid-sgUmGuPDmR .mbr-text,
+.cid-sgUmGuPDmR .mbr-section-btn {
+  color: #000000;
 }
 .cid-sgKwIoLQu1 {
   padding-top: 6rem;
@@ -1861,7 +1881,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sgKwIoLQu1 .card-wrapper {
-  background-color: #ffffff;
+  background-color: #fafafa;
   border-radius: 4px;
 }
 .cid-sgKwIoLQu1 .image-wrapper img {
@@ -1875,22 +1895,22 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #6592e6;
+  border: 2px solid #ffffff;
   transition: all 0.3s;
 }
 .cid-sgKwIoLQu1 .social-row .soc-item .mbr-iconfont {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #6592e6;
+  color: #ffffff;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
 .cid-sgKwIoLQu1 .social-row .soc-item:hover {
-  background-color: #6592e6;
+  background-color: #ffffff;
 }
 .cid-sgKwIoLQu1 .social-row .soc-item:hover .mbr-iconfont {
-  color: #ffffff;
+  color: #000000;
 }
 @media (max-width: 767px) {
   .cid-sgKwIoLQu1 .card-box {
@@ -1911,11 +1931,11 @@ a {
 .cid-sgKwIoLQu1 .card-title {
   color: #2299aa;
 }
-.cid-sgKoBOIREI {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-sgUmzNNJC3 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #2299aa;
 }
-.cid-sgKoBOIREI .media-container-row .mbr-text {
-  text-align: left;
+.cid-sgUmzNNJC3 .mbr-text {
+  color: #65c6d4;
 }
